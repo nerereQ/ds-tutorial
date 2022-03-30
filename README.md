@@ -7,3 +7,14 @@ conda install jupyter notebook
 ```
 
 # 주피터 노트북 시작폴더 변경
+```
+jupyter notebook --generate-config
+```
+
+# 패키지
+```
+pandas
+numpy
+scikit-learn
+seaborn
+```
